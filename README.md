@@ -4,10 +4,24 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=LizaImmax&label=Profile%20Views&color=ff69b4&style=flat-square&labelColor=blueviolet)
-  [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/elizabeth-muthoni-44a378129/)
-  ![Followers](https://img.shields.io/github/followers/LizaImmax?label=Followers&style=flat-square&color=ff69b4&labelColor=blueviolet&logo=github&logoColor=white)
-  ![Stars](https://img.shields.io/github/stars/LizaImmax?label=Stars&style=flat-square&color=ffd700&labelColor=ff6347&logo=github&logoColor=white)
+  <a href="https://github.com/LizaImmax">
+    <img src="https://img.shields.io/badge/👁️_Profile_Views-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=FF1493&color=8A2BE2" alt="Profile Views"/>
+  </a>
+  <a href="https://www.linkedin.com/in/elizabeth-muthoni-44a378129/">
+    <img src="https://img.shields.io/badge/💼_Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=00D9FF&color=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/LizaImmax?tab=followers">
+    <img src="https://img.shields.io/github/followers/LizaImmax?label=✨_Followers&style=for-the-badge&color=FF1493&labelColor=8A2BE2&logo=github&logoColor=white" alt="Followers"/>
+  </a>
+  <a href="https://github.com/LizaImmax?tab=repositories">
+    <img src="https://img.shields.io/github/stars/LizaImmax?label=⭐_Total_Stars&style=for-the-badge&color=FFD700&labelColor=FF6347&logo=github&logoColor=white" alt="Stars"/>
+  </a>
+  
+</div>
+
+<div align="center">
+  
+  ### ✨ *Backend Engineer • Cloud Security Expert • AWS Certified* ✨
   
 </div>
 
