@@ -4,9 +4,10 @@
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=LizaImmax&color=blueviolet&style=for-the-badge)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-muthoni-44a378129/)
-  [![GitHub followers](https://img.shields.io/github/followers/LizaImmax?style=for-the-badge&color=purple)](https://github.com/LizaImmax)
+  ![Profile Views](https://komarev.com/ghpvc/?username=LizaImmax&label=Profile%20Views&color=ff69b4&style=flat-square&labelColor=blueviolet)
+  [![LinkedIn](https://img.shields.io/badge/💼_Connect_on_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/elizabeth-muthoni-44a378129/)
+  ![Followers](https://img.shields.io/github/followers/LizaImmax?label=Followers&style=flat-square&color=ff69b4&labelColor=blueviolet&logo=github&logoColor=white)
+  ![Stars](https://img.shields.io/github/stars/LizaImmax?label=Stars&style=flat-square&color=ffd700&labelColor=ff6347&logo=github&logoColor=white)
   
 </div>
 
@@ -34,43 +35,19 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ My Toolbox
 
 <div align="center">
 
-### 💻 Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-### 🔒 Security & Monitoring
-![Security](https://img.shields.io/badge/Cloud_Security-FF6B6B?style=for-the-badge&logo=springsecurity&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| Category | Skills |
+|----------|--------|
+| 💻 **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Shell](https://img.shields.io/badge/Shell-121011?style=flat-square&logo=gnu-bash&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| ☁️ **Cloud Platforms** | ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white) |
+| 🚀 **DevOps** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white) |
+| 🔒 **Security** | ![Cloud Security](https://img.shields.io/badge/Cloud_Security-FF6B6B?style=flat-square&logo=springsecurity&logoColor=white) ![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazon-aws&logoColor=white) |
+| 📊 **Monitoring** | ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+| 🗄️ **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| 🔧 **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
 
 </div>
 
@@ -103,25 +80,71 @@
 ## 🎯 What I'm Up To
 
 🔥 **Currently Working On:**
-- Building secure and scalable cloud solutions
-- Learning advanced AWS security services
-- Contributing to open-source projects
-- Completing the ALX Full-Stack Engineering Program
+- ☁️ Building **Upepo Cloud** - my journey to reverse-engineer and deeply understand cloud computing from scratch
+- 🛡️ Designing secure and scalable cloud architectures
+- 🚀 Contributing to open-source projects
+- 📖 Sharing knowledge and learning in public
+
+🎓 **Recently Accomplished:**
+- ✅ Graduated from **ALX Full-Stack Engineering Program**
+- ✅ AWS Certified Solutions Architect
 
 📚 **Always Learning:**
-- Cloud security best practices
-- Modern backend architectures
-- DevOps and automation tools
+- Advanced cloud security patterns
+- Microservices architecture
+- DevOps and automation best practices
 
-### 📌 Featured Repositories
+## 💼 Featured Projects
+
+### 🌟 Upepo Cloud
+**Sep 2025 - Present** | [View Project](https://github.com/LizaImmax/Upepo-Cloud)
+
+This is the beginning of my journey to reverse-engineer and deeply understand cloud computing by building my own cloud platform from scratch.
+
+**🎯 Project Objectives:**
+- Reverse-engineer cloud concepts through practical implementation
+- Build a stage-based cloud system, from Core Node to distributed scalability
+- Document every stage with clarity for others to follow
+- Share challenges, lessons, and breakthroughs (learning in public)
+
+**💡 The Motivation:**
+
+I've worked with cloud services, studied them, and earned certifications, but I wanted to go deeper. Rather than only consuming cloud platforms, I want to understand their inner workings:
+- How do nodes communicate?
+- How is traffic handled at scale?
+- What does it take to design and secure a system from zero?
+
+**Skills:** Cloud Computing · Cloud Security · Amazon Web Services (AWS) · System Design
+
+---
+
+### ☁️ AWS Cloud Projects
+**Ongoing** | [View Repository](https://github.com/LizaImmax/AWS-Cloud-Projects) | [Live Demo](https://aws-cloud-projects.vercel.app/)
+
+A comprehensive collection of hands-on AWS projects showcasing cloud architecture, infrastructure automation, and security implementations.
+
+**Key Projects Include:**
+- 🏗️ **Infrastructure as Code** - Deploying load-balanced and secure applications with CloudFormation
+- 🔄 **Microservices Architecture** - Breaking monolithic Node.js apps into microservices
+- ⚡ **Serverless Applications** - Implementing serverless architectures with AWS Lambda
+- 🔐 **Cloud Security** - Encrypting data at rest and securing applications with Amazon Cognito
+- 📊 **High Availability** - Creating scalable and highly available environments
+- 🔗 **Decoupled Applications** - Building with Amazon SQS
+- 💾 **Hybrid Storage** - Configuring AWS Storage Gateway and S3 File Gateway
+
+**Technologies:** AWS EC2 · Lambda · S3 · RDS · VPC · IAM · CloudFormation · Terraform · DynamoDB · API Gateway
+
+---
+
+### 📌 Other Featured Repositories
 
 <div align="center">
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LizaImmax&repo=AWS-Cloud-Projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/LizaImmax/AWS-Cloud-Projects)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LizaImmax&repo=alx-system_engineering-devops&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/LizaImmax/alx-system_engineering-devops)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LizaImmax&repo=alx-low_level_programming&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/LizaImmax/alx-low_level_programming)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LizaImmax&repo=alx-low_level_programming&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/LizaImmax/alx-low_level_programming)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LizaImmax&repo=printf&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/LizaImmax/printf)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LizaImmax&repo=alx-pre_course&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/LizaImmax/alx-pre_course)
 
 </div>
 
@@ -133,10 +156,19 @@
 
 <div align="center">
 
-| 🎖️ Certification | 📅 Status |
+| 🎖️ Certification | 🏢 Issuing Organization |
 |:---|:---:|
-| AWS Certified Solutions Architect | ✅ Certified |
-| ALX Full-Stack Engineer | 🎓 In Progress |
+| ☁️ **AWS Certified Solutions Architect** | Amazon Web Services (AWS) |
+| ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) |
+| 🔐 **Cloud Security Engineer** | Datadog |
+| ☸️ **Kubernetes and Cloud Native Associate** | The Linux Foundation |
+| 💰 **FinOps Certified Practitioner** | FinOps Foundation |
+| 🤖 **Azure AI Fundamentals** | Microsoft |
+| 🧬 **Fundamentals of Data Science in Precision Medicine & Cloud Computing** | Stanford University School of Medicine |
+| 🧬 **Fundamentals of AI/ML in Precision Medicine** | Stanford University School of Medicine |
+| 🤖 **Introducing Generative AI with AWS** | Udacity |
+| 🧠 **Machine Learning I** | Columbia University |
+| 💻 **Backend Software Engineer** | ALX Africa |
 
 </div>
 
