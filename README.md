@@ -79,22 +79,24 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 📊 GitHub Stats
+## 🏆 Certifications & Achievements
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LizaImmax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LizaImmax&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" height="180"/>
-</div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizaImmax&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LizaImmax&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B" alt="Activity Graph" height="180"/>
-</div>
+| 🎖️ Certification | 🏢 Issuing Organization |
+|:---|:---:|
+| ☁️ **AWS Certified Solutions Architect** | Amazon Web Services (AWS) |
+| ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) |
+| 🔐 **Cloud Security Engineer** | Datadog |
+| ☸️ **Kubernetes and Cloud Native Associate** | The Linux Foundation |
+| 💰 **FinOps Certified Practitioner** | FinOps Foundation |
+| 🤖 **Azure AI Fundamentals** | Microsoft |
+| 🧬 **Fundamentals of Data Science in Precision Medicine & Cloud Computing** | Stanford University School of Medicine |
+| 🧬 **Fundamentals of AI/ML in Precision Medicine** | Stanford University School of Medicine |
+| 🤖 **Introducing Generative AI with AWS** | Udacity |
+| 🧠 **Machine Learning I** | Columbia University |
+| 💻 **Backend Software Engineer** | ALX Africa |
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LizaImmax&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br>
@@ -158,44 +160,6 @@ A comprehensive collection of hands-on AWS projects showcasing cloud architectur
 
 **Technologies:** AWS EC2 · Lambda · S3 · RDS · VPC · IAM · CloudFormation · Terraform · DynamoDB · API Gateway
 
----
-
-### 📌 Other Featured Repositories
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LizaImmax&repo=AWS-Cloud-Projects&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/LizaImmax/AWS-Cloud-Projects)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LizaImmax&repo=alx-system_engineering-devops&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/LizaImmax/alx-system_engineering-devops)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LizaImmax&repo=alx-low_level_programming&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/LizaImmax/alx-low_level_programming)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LizaImmax&repo=printf&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF)](https://github.com/LizaImmax/printf)
-
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
-
-## 🏆 Certifications & Achievements
-
-<div align="center">
-
-| 🎖️ Certification | 🏢 Issuing Organization |
-|:---|:---:|
-| ☁️ **AWS Certified Solutions Architect** | Amazon Web Services (AWS) |
-| ☁️ **AWS Certified Cloud Practitioner** | Amazon Web Services (AWS) |
-| 🔐 **Cloud Security Engineer** | Datadog |
-| ☸️ **Kubernetes and Cloud Native Associate** | The Linux Foundation |
-| 💰 **FinOps Certified Practitioner** | FinOps Foundation |
-| 🤖 **Azure AI Fundamentals** | Microsoft |
-| 🧬 **Fundamentals of Data Science in Precision Medicine & Cloud Computing** | Stanford University School of Medicine |
-| 🧬 **Fundamentals of AI/ML in Precision Medicine** | Stanford University School of Medicine |
-| 🤖 **Introducing Generative AI with AWS** | Udacity |
-| 🧠 **Machine Learning I** | Columbia University |
-| 💻 **Backend Software Engineer** | ALX Africa |
-
-</div>
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
@@ -249,6 +213,28 @@ A comprehensive collection of hands-on AWS projects showcasing cloud architectur
 
 💻 When I'm not coding, I'm probably debugging... or thinking about debugging!
 
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LizaImmax&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LizaImmax&theme=radical&hide_border=true&background=0D1117&stroke=A855F7&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" height="180"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LizaImmax&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LizaImmax&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FF6B6B" alt="Activity Graph" height="180"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LizaImmax&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br>
