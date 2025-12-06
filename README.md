@@ -16,29 +16,19 @@
 
 ## 🚀 About Me
 
-```python
-class ElizabethMuthoni:
-    def __init__(self):
-        self.name = "Elizabeth Muthoni"
-        self.role = "Backend & Cloud Security Engineer"
-        self.location = "Mombasa, Kenya 🇰🇪"
-        self.certifications = ["AWS Certified Solutions Architect"]
-        self.passion = "Securing & Scaling Cloud Systems"
-        
-    def get_current_focus(self):
-        return [
-            "Building secure cloud architectures",
-            "Backend system optimization",
-            "DevSecOps practices",
-            "Cloud security solutions"
-        ]
-    
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+👋 Hi, I'm **Elizabeth Muthoni** - a passionate **Backend & Cloud Security Engineer** based in the beautiful coastal city of **Mombasa, Kenya** 🇰🇪
 
-me = ElizabethMuthoni()
-me.say_hi()
-```
+💼 I specialize in building secure and scalable cloud systems, with a focus on making the digital world a safer place. As an **AWS Certified Solutions Architect**, I love designing robust cloud architectures and optimizing backend systems.
+
+🌟 **What drives me:**
+- 🔐 Creating secure cloud infrastructures that protect what matters
+- 🚀 Scaling systems to handle millions of requests
+- 🛡️ Bridging the gap between development and security
+- 💡 Continuous learning and sharing knowledge with the community
+
+✨ **When I'm not coding**, you'll find me exploring new technologies, contributing to open-source, or enjoying the ocean breeze in Mombasa!
+
+💬 **Let's connect and build something amazing together!**
 
 <br>
 
@@ -110,27 +100,18 @@ me.say_hi()
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
-## 🎯 Current Focus & Projects
+## 🎯 What I'm Up To
 
-<div align="center">
+🔥 **Currently Working On:**
+- Building secure and scalable cloud solutions
+- Learning advanced AWS security services
+- Contributing to open-source projects
+- Completing the ALX Full-Stack Engineering Program
 
-### 🔥 What I'm Working On
-
-```yaml
-Current Projects:
-  - 🛡️ Building secure cloud infrastructure solutions
-  - 🚀 Optimizing backend systems for scalability
-  - 🔐 Implementing DevSecOps pipelines
-  - 📚 ALX Full-Stack Engineering Program
-  
-Learning:
-  - Advanced AWS Security Services
-  - Kubernetes Security Best Practices
-  - Cloud-Native Architecture Patterns
-  - Microservices Design
-```
-
-</div>
+📚 **Always Learning:**
+- Cloud security best practices
+- Modern backend architectures
+- DevOps and automation tools
 
 ### 📌 Featured Repositories
 
@@ -200,18 +181,17 @@ Learning:
 
 <div align="center">
   
-### ⚡ Fun Facts
+### ⚡ Fun Facts About Me
 
-```javascript
-const elizabeth = {
-    location: "Mombasa, Kenya 🌊",
-    timezone: "EAT (UTC+3)",
-    workStyle: "Remote-first, globally connected",
-    motto: "Security is not a feature, it's a foundation 🔒",
-    currently: "Bridging the gap between development and security",
-    funFact: "I debug code and secure clouds ☁️🔐"
-};
-```
+🌊 Living in beautiful **Mombasa, Kenya** - where the ocean meets innovation!
+
+☁️ I love working with clouds... the digital kind! From AWS to security architectures
+
+🔒 My motto: **"Security is not a feature, it's a foundation"**
+
+🌍 Working remotely but globally connected
+
+💻 When I'm not coding, I'm probably debugging... or thinking about debugging!
 
 </div>
 
